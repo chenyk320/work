@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T07:30:43.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Mt97-kg_1uQ1_oeK1umK" version="20.8.5" type="github" pages="2"><diagram id="Mi6Uny3UNFIJB_ZGdhlr" name="第 1 页">vZTBboMwDIafJsdJQEbXHteObodtFzRV6i0qLmEKGKWmQJ9+aQmlEVq3HdYLSj7b2P7jhPFF3jxrUco3TECxwEsaxp9YEEw9z3yPoO1AMA07kOos6ZA/gDg7gIU2Lq2yBHaOIyEqykoXbrAoYEMOE1pj7bptUblZS5HCCMQbocZ0lSUkbVvBw8BfIEtln9mfzDpLLnpn28lOigTrC8QjxhcakbpV3ixAHbXrdenilt9Yz4VpKOg3AfFBputlcb9ao9fu3pcfudre8e4ve6Eq27AtltpeAUiMIHaLmiSmWAgVDXSusSoSOKbxzG7weUUsDfQN/ASi1p6uqAgNkpQra+1yHhN925tFO6z0Bq401M+I0CnQFb/gfAJmcgFzIN2aOA1KULZ36xB2htKz3yCzWVil/6C6P1Y9mrJ5xGacRSEzV+QxPC2WbGpMEzYL2dwbnUwtM4K4FCdBanP9XFXdY7EpQRM011Ueq2IDuC2hdbf1cC/8ftjlxZ2YeP8kY/Dz8N5aohtqZLbD43GyXbzAPPoC</diagram><diagram id="NEA1AfLLn4d2mOgMVekQ" name="第 2 页">jZJLb4MwDMc/DcdJBaqOXcvYS6p2QKi7TRHxSLRAUOoO2KefWRIeqyrtEsU/PxL/7SBO6/7RsFYcNAcVRBveB/F9EEVJsqFzBIMF211oQWUkt2gBcvkNDrq86iw5nFaBqLVC2a5hqZsGSlwxZozu1mEfWq1fbVkFFyAvmbqkR8lRuLai25k/gayEfznc3VlPzXyw6+QkGNfdAsVZEKdGa7S3uk9Bjdp5XWzewxXv9DEDDf4n4fBZ5PtjkkXvb0VaPL/ii2pvXJUvps6uYfdZHLwCVIXEJmPfCYmQt6wcPR2Nm5jAWpEV0tWVAoPQX/1jOHVOGwO6BjQDhbiErR/78MfuZu1DL6hY6O7XjLlxV1PpWRG6OFG8OYv/61tscJz9AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T03:01:45.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="u1zBiAK7bvV8ub2CGcbw" version="20.8.5" type="github" pages="2">
+  <diagram id="Mi6Uny3UNFIJB_ZGdhlr" name="第 1 页">
+    <mxGraphModel dx="562" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SzhgZFn4WZo0ysNFUmlf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhgZFn4WZo0ysNFUmlf-1" value="xsstrike输入参数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;elbow=vertical;" edge="1" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;elbow=vertical;" edge="1" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhgZFn4WZo0ysNFUmlf-2" value="--headers输入自定义的http标头" style="whiteSpace=wrap;html=1;rounded=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="180" y="77.5" width="90" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NEA1AfLLn4d2mOgMVekQ" name="第 2 页">
+    <mxGraphModel dx="880" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MkUSBW8E2_XUCUIOtJlp-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
