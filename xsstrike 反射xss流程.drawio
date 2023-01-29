@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T03:01:45.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="u1zBiAK7bvV8ub2CGcbw" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-29T10:21:56.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="N0Ex-dOVqDiAb73vpcwm" version="20.8.5" type="github" pages="2">
   <diagram id="Mi6Uny3UNFIJB_ZGdhlr" name="第 1 页">
-    <mxGraphModel dx="562" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzhgZFn4WZo0ysNFUmlf-1" value="xsstrike输入参数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="120" width="120" height="55" as="geometry" />
+          <mxGeometry x="120" y="172.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="AMDaqCPly_B1wJdDMMOm-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;elbow=vertical;" edge="1" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -16,8 +16,20 @@
         <mxCell id="AMDaqCPly_B1wJdDMMOm-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;elbow=vertical;" edge="1" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SzhgZFn4WZo0ysNFUmlf-2" value="--headers输入自定义的http标头" style="whiteSpace=wrap;html=1;rounded=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="180" y="77.5" width="90" height="140" as="geometry" />
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="SzhgZFn4WZo0ysNFUmlf-2" target="AMDaqCPly_B1wJdDMMOm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhgZFn4WZo0ysNFUmlf-2" value="--headers输入自定义的http标头，&lt;br&gt;json格式处理，&lt;br&gt;-file payload路径，seed等各种参数" style="whiteSpace=wrap;html=1;rounded=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="270" y="130" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="AMDaqCPly_B1wJdDMMOm-11" target="AMDaqCPly_B1wJdDMMOm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-11" value="scan.py" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="170" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMDaqCPly_B1wJdDMMOm-13" value="requester.py" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="115" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
