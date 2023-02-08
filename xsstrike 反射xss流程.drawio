@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T13:13:17.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GsnfXejfqmfe4fHggdRP" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:23:12.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VuEOHr2ymhZAnSXZjH5n" version="20.8.16" type="github" pages="2">
   <diagram id="Mi6Uny3UNFIJB_ZGdhlr" name="第 1 页">
-    <mxGraphModel dx="367" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SzhgZFn4WZo0ysNFUmlf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-2" edge="1">
+        <mxCell id="SzhgZFn4WZo0ysNFUmlf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" parent="1" source="SzhgZFn4WZo0ysNFUmlf-1" target="SzhgZFn4WZo0ysNFUmlf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzhgZFn4WZo0ysNFUmlf-1" value="xsstrike输入参数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -28,26 +28,38 @@
         <mxCell id="AMDaqCPly_B1wJdDMMOm-11" value="scan.py" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="170" width="115" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dojH2ZBy4jooozm948fz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AMDaqCPly_B1wJdDMMOm-13" target="dojH2ZBy4jooozm948fz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AMDaqCPly_B1wJdDMMOm-13" value="requester.py" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="170" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9ZumjQLEosZfhHDupUa-1" target="-9ZumjQLEosZfhHDupUa-2">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-9ZumjQLEosZfhHDupUa-1" target="-9ZumjQLEosZfhHDupUa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-4" value="import" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9ZumjQLEosZfhHDupUa-1" target="-9ZumjQLEosZfhHDupUa-2">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-4" value="import" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-9ZumjQLEosZfhHDupUa-1" target="-9ZumjQLEosZfhHDupUa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-1" value="log.py&lt;br&gt;自定义的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-1" value="log.py&lt;br&gt;自定义的" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9ZumjQLEosZfhHDupUa-2" target="-9ZumjQLEosZfhHDupUa-5">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-9ZumjQLEosZfhHDupUa-2" target="-9ZumjQLEosZfhHDupUa-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-2" value="logging" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-2" value="logging" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9ZumjQLEosZfhHDupUa-5" value="&lt;a style=&quot;color: rgb(0, 176, 228); font-family: &amp;quot;Lucida Grande&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; href=&quot;https://github.com/python/cpython/tree/3.11/Lib/logging/__init__.py&quot; class=&quot;reference external&quot;&gt;__init__.py&lt;/a&gt;&lt;br&gt;源代码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-9ZumjQLEosZfhHDupUa-5" value="&lt;a style=&quot;color: rgb(0, 176, 228); font-family: &amp;quot;Lucida Grande&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; href=&quot;https://github.com/python/cpython/tree/3.11/Lib/logging/__init__.py&quot; class=&quot;reference external&quot;&gt;__init__.py&lt;/a&gt;&lt;br&gt;源代码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dojH2ZBy4jooozm948fz-7" value="完善request请求头，使用requests.get 获得response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dojH2ZBy4jooozm948fz-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="AMDaqCPly_B1wJdDMMOm-13" target="dojH2ZBy4jooozm948fz-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="150" as="sourcePoint" />
+            <mxPoint x="730" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
